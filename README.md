@@ -14,4 +14,4 @@ Features:
 - A single hook is used
 - Only one for loop is used, and it only runs at the beginning of the script (could be omitted, but remains for user simplicity)
 
-You must add the `mt.NoReload.lua` script to the `autorun` folder or the `server.lua` file, otherwise it will not execute.
+**You must add the `mt.NoReload.lua` script to the `autorun` folder or the `server.lua` file, otherwise it will not execute.**
